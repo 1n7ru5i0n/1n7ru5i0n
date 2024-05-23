@@ -3,6 +3,7 @@
 ### Cyber Security Student | Ethical Hacker | InfoSec Enthusiast
 
 <a href='https://www.linkedin.com/in/jayden-ty-williams/'><img align='left' alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/>
 
 Welcome to my GitHub profile! I'm passionate about all things cyber security and constantly exploring new techniques and technologies in the field.
 I am currently studying my Diploma in Cyber Security.
