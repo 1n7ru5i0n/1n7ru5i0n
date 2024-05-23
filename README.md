@@ -17,41 +17,33 @@ Did you know? I started off in Games and Entertainment design. I studied that fo
 <br/>
 <br/>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-  
-### 🧐 More About Me:
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h3>🔭 Current Projects</h3>
-    <ul>
-      <li><strong>Password Manager & Encryptor Tool</strong>: Building a tool to securely create, save, and store passwords.</li>
-      <li><strong>Capture The Flag Challenges</strong>: Solving various CTF challenges to enhance my skills.</li>
-      <li><strong>Cyber Security Blog</strong>: Sharing my knowledge and experiences through blog posts on my website.</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <h3>🌱 I'm Currently Learning</h3>
-    <ul>
-      <li>Microsoft Azure</li>
-      <li>Analyzing Splunk logs</li>
-      <li>Creating and managing network servers</li>
-    </ul>
-    <h3>💼 Skills</h3>
-    <ul>
-      <li><strong>Programming</strong>: Python</li>
-      <li><strong>Tools</strong>: Wireshark, Nmap, Burp Suite, ZAP</li>
-      <li><strong>Operating Systems</strong>: Linux, Windows</li>
-    </ul>
-    <h3>🚀 Goals</h3>
-    <ul>
-      <li>Obtain OSCP Certification</li>
-      <li>Contribute to Open Source Security Projects</li>
-      <li>Establish a Career in Cyber Security Consulting</li>
-    </ul>
+### 🔭 Current Projects
+- **Password Manager & Encryptor Tool**: Building a tool to securely create, save, and store passwords.
+- **Capture The Flag Challenges**: Solving various CTF challenges to enhance my skills.
+- **Cyber Security Blog**: Sharing my knowledge and experiences through blog posts on my website.
+
+### 🌱 I'm Currently Learning
+- Microsoft Azure
+- Analyzing Splunk logs
+- Creating and managing network servers
+
+### 💼 Skills
+- **Programming**: Python
+- **Tools**: Wireshark, Nmap, Burp Suite, ZAP
+- **Operating Systems**: Linux, Windows
+
+### 🚀 Goals
+- Obtain OSCP Certification
+- Contribute to Open Source Security Projects
+- Establish a Career in Cyber Security Consulting
   </div>
 </div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 <br>
 
 ### 🔨 Languages and Tools:
