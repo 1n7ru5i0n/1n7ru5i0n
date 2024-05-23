@@ -51,27 +51,22 @@ Did you know? I started off in Games and Entertainment design. I studied that fo
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/JaydenWilliams-CyberSec/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/JaydenWilliams-CyberSec/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/JaydenWilliams-CyberSec/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank">
 
 ## 📫 Get in Touch
-- LinkedIn: [Jayden Williams](https://www.linkedin.com/in/yourprofile)
-- Email: [Jayden](jayden@jaydenwilliams.xyz)
-- Blog: [My Blog](https://jaydenwilliams.xyz)
+- LinkedIn: [Jayden Williams](https://www.linkedin.com/in/jayden-ty-williams/)
+- Email: [Email Me Here!](jayden@jaydenwilliams.xyz)
+- Blog: [Checkout My Blog](https://jaydenwilliams.xyz)
 
 ## 💻 Check Out My Latest Blog Post
 - Got nothing right now due to being highly active within my studies.
