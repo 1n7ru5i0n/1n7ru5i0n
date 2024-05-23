@@ -17,7 +17,7 @@ Did you know? I started off in Games and Entertainment design. I studied that fo
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
   
 ### 🧐 More About Me:
 
@@ -51,7 +51,7 @@ Did you know? I started off in Games and Entertainment design. I studied that fo
     </ul>
   </div>
 </div>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <br>
 
 ### 🔨 Languages and Tools:
