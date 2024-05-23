@@ -6,7 +6,7 @@ I am currently studying my Diploma in Cyber Security.
 
 if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://buymeacoffee.com/epiloxgamih" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60px" width="150px" ></a>
+<a href="https://buymeacoffee.com/epiloxgamih" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## 🔭 Current Projects
 - **Password Manager & Encyptor Tool**: Building a tool to securly create, save and store passwords.
