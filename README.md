@@ -1,5 +1,11 @@
-# 💫 About Me:
-### 🔭 Current Projects<br>- **Password Manager & Encryptor Tool**: Building a tool to securely create, save, and store passwords.<br>- **Capture The Flag Challenges**: Solving various CTF challenges to enhance my skills.<br>- **Cyber Security Blog**: Sharing my knowledge and experiences through blog posts on my website.
+# Hi there, I'm Jayden! 👋
+
+### Cyber Security Student | Ethical Hacker | InfoSec Enthusiast
+
+## 🔭 Current Projects
+- **Password Manager & Encyptor Tool**: Building a tool to securly create, save and store passwords.
+- **Capture The Flag Challenges**: Solving various CTF challenges to enhance my skills.
+- **Cyber Security Blog**: Sharing my knowledge and experiences through blog posts on my website.
 
 
 ## 🌐 Socials:
