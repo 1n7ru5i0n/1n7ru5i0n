@@ -1,80 +1,34 @@
-# Hi there, I'm Jayden! 👋
+# 💫 About Me:
+### 🔭 Current Projects<br>- **Password Manager & Encryptor Tool**: Building a tool to securely create, save, and store passwords.<br>- **Capture The Flag Challenges**: Solving various CTF challenges to enhance my skills.<br>- **Cyber Security Blog**: Sharing my knowledge and experiences through blog posts on my website.
 
-### Cyber Security Student | Ethical Hacker | InfoSec Enthusiast
 
-<a href='https://www.linkedin.com/in/jayden-ty-williams/'><img align='left' alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jayden-ty-williams) 
 
-Welcome to my GitHub profile! I'm passionate about all things cyber security and constantly exploring new techniques and technologies in the field.
-I am currently studying my Diploma in Cyber Security.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JaydenWilliams-CyberSec&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JaydenWilliams-CyberSec&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenWilliams-CyberSec&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JaydenWilliams-CyberSec&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://buymeacoffee.com/epiloxgamih" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-## ⚡ Fun Fact
-Did you know? I started off in Games and Entertainment design. I studied that for a few years before ultimately deciding that it was not what I thought and jumped into Cyber Security.
-<br/>
-<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JaydenWilliams-CyberSec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
+---
+[![](https://visitcount.itsvg.in/api?id=JaydenWilliams-CyberSec&icon=5&color=0)](https://visitcount.itsvg.in)
 
-### 🔭 Current Projects
-- **Password Manager & Encryptor Tool**: Building a tool to securely create, save, and store passwords.
-- **Capture The Flag Challenges**: Solving various CTF challenges to enhance my skills.
-- **Cyber Security Blog**: Sharing my knowledge and experiences through blog posts on my website.
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/epiloxgamih) 
 
-### 🌱 I'm Currently Learning
-- Microsoft Azure
-- Analyzing Splunk logs
-- Creating and managing network servers
-
-### 💼 Skills
-- **Programming**: Python
-- **Tools**: Wireshark, Nmap, Burp Suite, ZAP
-- **Operating Systems**: Linux, Windows
-
-### 🚀 Goals
-- Obtain OSCP Certification
-- Contribute to Open Source Security Projects
-- Establish a Career in Cyber Security Consulting
-  </div>
-</div>
-
-<br>
-
-### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<br><br><br>
-
-### 📊 Github Stats
-<a href='https://github.com/JaydenWilliams-CyberSec/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/JaydenWilliams-CyberSec/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/JaydenWilliams-CyberSec/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
-<br><br><br>
-
-## 📫 Get in Touch
-- LinkedIn: [Jayden Williams](https://www.linkedin.com/in/jayden-ty-williams/)
-- Email: [Email Me Here!](mailto:jayden@jaydenwilliams.xyz)
-- Blog: [Checkout My Blog](https://jaydenwilliams.xyz)
-
-## 💻 Check Out My Latest Blog Post
-- Got nothing right now due to being highly active within my studies.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
