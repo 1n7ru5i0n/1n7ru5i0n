@@ -18,10 +18,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JaydenWilliams-CyberSec&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaydenWilliams-CyberSec&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaydenWilliams-CyberSec&theme=github_dark&utcOffset=8)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaydenWilliams-CyberSec&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaydenWilliams-CyberSec&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaydenWilliams-CyberSec&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaydenWilliams-CyberSec&theme=github_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaydenWilliams-CyberSec&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaydenWilliams-CyberSec&theme=github_dark)
 
 
 ## 🏆 GitHub Trophies
