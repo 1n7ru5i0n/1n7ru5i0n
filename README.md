@@ -4,6 +4,9 @@
 Welcome to my GitHub profile! I'm passionate about all things cyber security and constantly exploring new techniques and technologies in the field.
 I am currently studying my Diploma in Cyber Security.
 
+if you like what i do, maybe consider buying me a coffee 🥺👉👈
+<a href="https://buymeacoffee.com/epiloxgamih" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 ## 🔭 Current Projects
 - **Password Manager & Encyptor Tool**: Building a tool to securly create, save and store passwords.
 - **Capture The Flag Challenges**: Solving various CTF challenges to enhance my skills.
