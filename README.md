@@ -1,6 +1,5 @@
 <div align="center">
-
-```
+<pre>
  ██╗███╗   ██╗███████╗██████╗ ██╗   ██╗███████╗██╗ ██████╗ ███╗   ██╗
 ███║████╗  ██║╚════██║██╔══██╗██║   ██║██╔════╝██║██╔═████╗████╗  ██║
 ╚██║██╔██╗ ██║    ██╔╝██████╔╝██║   ██║███████╗██║██║██╔██║██╔██╗ ██║
@@ -8,7 +7,7 @@
  ██║██║ ╚████║   ██║  ██║  ██║╚██████╔╝███████║██║╚██████╔╝██║ ╚████║
  ╚═╝╚═╝  ╚═══╝   ╚═╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 Jayden Williams — Online as 1n7ru5i0n
-```
+</pre>
 
 <!-- Animated Typing Header -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Breaking+to+Learn%2C+Learning+to+Secure;Always+Improving+and+Exploring&center=true&width=700&color=6CF010)
